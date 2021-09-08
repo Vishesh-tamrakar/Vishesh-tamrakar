@@ -2,8 +2,6 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [CSS Art Gallery](https://github.com/Vishesh-tamrakar/css-art-gallery)
-
 - 🌱 I’m currently learning **Google Cloud, Python, C, HTML, CSS**
 
 - 📫 Contact me **[here](28vishesh@gmail.com)**
