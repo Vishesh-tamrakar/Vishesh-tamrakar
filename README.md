@@ -2,7 +2,7 @@
 
 ## 🧔 About Me
 
-- 🌱 I’m currently learning **Google Cloud, Python, C, HTML, CSS**
+- 🌱 I’m currently learning **Google Cloud, Python, C, HTML, CSS, Java, SQL, Android Development**
 
 - 📫 Contact me **[here](28vishesh@gmail.com)**
 
